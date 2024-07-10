@@ -6,6 +6,8 @@ This project involves analyzing data from the Olympic Games using SQL. We have t
 
 ## Datasets
 
+## Link to Kaggle Dataset: https://www.kaggle.com/heesoo37/120-y...
+
 1. *athlete_events.csv*
    - Contains information about athletes and the events they participated in.
    - Key columns: ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal.
